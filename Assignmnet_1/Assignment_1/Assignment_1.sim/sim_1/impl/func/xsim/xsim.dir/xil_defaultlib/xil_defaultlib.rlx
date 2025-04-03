@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/Design_DSP/Assignmnet_1/Assignment_1/Assignment_1.sim/sim_1/impl/func/xsim/tb_ALU8bit_func_impl.v,1742503472,verilog,,,,EightBitAlu;glbl,,,,,,,,
+D:/Design_DSP/Assignmnet_1/Assignment_1/Assignment_1.srcs/sim_1/new/tb_EightBitALU.vhd,1742469159,vhdl,,,,tb_alu8bit,,,,,,,,
+D:/Design_DSP/Assignmnet_1/Assignment_1/Assignment_1.srcs/sim_1/new/tb_EightBitFullAdder.vhd,1742465804,vhdl,,,,tb_eightbitfulladder,,,,,,,,
+D:/Design_DSP/Assignmnet_1/Assignment_1/Assignment_1.srcs/sim_1/new/tb_MUX4in1EightBit.vhd,1742465118,vhdl,,,,tb_mux4in1eightbit,,,,,,,,

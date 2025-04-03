@@ -1,0 +1,15 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (win64) Build 2552052 Fri May 24 14:49:42 MDT 2019
+| Date         : Thu Mar 20 21:44:12 2025
+| Host         : HACKBOI running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file EightBitAlu_bus_skew_routed.rpt -pb EightBitAlu_bus_skew_routed.pb -rpx EightBitAlu_bus_skew_routed.rpx
+| Design       : EightBitAlu
+| Device       : 7z020-clg484
+| Speed File   : -1  PRODUCTION 1.11 2014-09-11
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

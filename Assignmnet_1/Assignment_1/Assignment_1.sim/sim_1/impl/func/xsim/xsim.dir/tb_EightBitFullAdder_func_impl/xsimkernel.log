@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_EightBitFullAdder_func_impl/xsimk.exe -simmode gui -wdb tb_EightBitFullAdder_func_impl.wdb -simrunnum 0 -socket 51097
+Design successfully loaded
+Design Loading Memory Usage: 7520 KB (Peak: 7520 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 8324 KB (Peak: 8324 KB)
+Simulation CPU Usage: 0 ms

@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Design_DSP/Assignmnet_2/Assigment_2/Assigment_2.sim/sim_1/impl/func/xsim/tb_CounterEightBit_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CounterEightBit
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Design_DSP/Assignmnet_2/Assigment_2/Assigment_2.srcs/sim_1/new/tb_CounterEightBit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_CounterEightBit'

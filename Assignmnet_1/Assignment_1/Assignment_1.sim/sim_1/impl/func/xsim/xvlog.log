@@ -1,0 +1,3 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Design_DSP/Assignmnet_1/Assignment_1/Assignment_1.sim/sim_1/impl/func/xsim/tb_ALU8bit_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EightBitAlu
+INFO: [VRFC 10-311] analyzing module glbl
