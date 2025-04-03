@@ -1,0 +1,94 @@
+(DELAYFILE 
+(SDFVERSION "3.0" )
+(DESIGN "D_flipflop")
+(DATE "Fri Feb 28 13:28:46 2025")
+(VENDOR "XILINX")
+(PROGRAM "Vivado")
+(VERSION "2019.1")
+(DIVIDER /)
+(TIMESCALE 1ps)
+(CELL 
+  (CELLTYPE "BUFG")
+  (INSTANCE CLK_IBUF_BUFG_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (91.0:101.0:101.0) (91.0:101.0:101.0))
+    )
+  )
+    (TIMINGCHECK
+      (PERIOD (posedge I) (2155.2:2155.2:2155.2))
+      (PERIOD (negedge I) (2155.2:2155.2:2155.2))
+    )
+)
+(CELL 
+  (CELLTYPE "IBUF")
+  (INSTANCE CLK_IBUF_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (873.6:1007.6:1007.6) (873.6:1007.6:1007.6))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "IBUF")
+  (INSTANCE Din_IBUF_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (781.7:914.8:914.8) (781.7:914.8:914.8))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "OBUF")
+  (INSTANCE Qout_OBUF_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (2441.3:2597.2:2597.2) (2441.3:2597.2:2597.2))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "FDRE")
+  (INSTANCE Qout_reg)
+  (DELAY 
+    (ABSOLUTE 
+      (IOPATH C Q (292.0:362.0:362.0) (292.0:362.0:362.0))
+    )
+  )
+    (TIMINGCHECK
+      (SETUPHOLD (posedge CE) (posedge C) (88.0:109.0:109.0) (-5.0:-5.0:-5.0))
+      (SETUPHOLD (negedge CE) (posedge C) (88.0:109.0:109.0) (-5.0:-5.0:-5.0))
+      (SETUPHOLD (posedge D) (posedge C) (-74.0:-60.0:-60.0) (262.0:262.0:262.0))
+      (SETUPHOLD (negedge D) (posedge C) (-74.0:-60.0:-60.0) (262.0:262.0:262.0))
+      (SETUPHOLD (posedge R) (posedge C) (445.0:552.0:552.0) (-41.0:-41.0:-41.0))
+      (SETUPHOLD (negedge R) (posedge C) (445.0:552.0:552.0) (-41.0:-41.0:-41.0))
+    )
+)
+(CELL 
+  (CELLTYPE "IBUF")
+  (INSTANCE RESET_IBUF_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (802.2:935.5:935.5) (802.2:935.5:935.5))
+    )
+  )
+)
+(CELL 
+    (CELLTYPE "D_flipflop")
+    (INSTANCE )
+    (DELAY
+      (ABSOLUTE
+      (INTERCONNECT CLK_IBUF_BUFG_inst/O Qout_reg/C (1783.4:1992.0:1992.0) (1783.4:1992.0:1992.0))
+      (INTERCONNECT CLK_IBUF_inst/O CLK_IBUF_BUFG_inst/I (1972.0:2171.0:2171.0) (1972.0:2171.0:2171.0))
+      (INTERCONNECT Din_IBUF_inst/O Qout_reg/D (941.0:1113.0:1113.0) (941.0:1113.0:1113.0))
+      (INTERCONNECT Qout_reg/Q Qout_OBUF_inst/I (1443.9:1669.9:1669.9) (1443.9:1669.9:1669.9))
+      (INTERCONNECT RESET_IBUF_inst/O Qout_reg/R (847.8:993.8:993.8) (847.8:993.8:993.8))
+      )
+    )
+)
+)

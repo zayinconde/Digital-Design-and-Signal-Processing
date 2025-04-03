@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../Lecture 4 flip flop task 1.srcs/sim_1/new/tb_D_FLIPFLOP.vhd" \
+
+# Do not sort compile order
+nosort

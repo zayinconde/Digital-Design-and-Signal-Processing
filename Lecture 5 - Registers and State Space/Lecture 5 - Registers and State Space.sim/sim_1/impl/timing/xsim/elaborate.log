@@ -1,0 +1,20 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx_editions/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 4060937ce0734acfa61b6cac3b567841 --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot tb_Shift_Register_time_impl -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.tb_Shift_Register xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "tb_Shift_Register_time_impl.sdf", for root module "tb_Shift_Register/UUT".
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "tb_Shift_Register_time_impl.sdf", for root module "tb_Shift_Register/UUT".
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package vl.vl_types
+Compiling module xil_defaultlib.glbl
+Compiling module simprims_ver.OBUFT
+Compiling module xil_defaultlib.Shift_Register
+Compiling architecture behavioral of entity xil_defaultlib.tb_shift_register
+Built simulation snapshot tb_Shift_Register_time_impl

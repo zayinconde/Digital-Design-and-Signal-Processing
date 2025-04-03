@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg484-1" LaunchTime="1741003098">
+  <File Type="BITSTR-BMM" Name="SR_FLIPPY_FLOPPY_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="SR_FLIPPY_FLOPPY_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="SR_FLIPPY_FLOPPY_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="SR_FLIPPY_FLOPPY_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="SR_FLIPPY_FLOPPY.tcl"/>
+  <File Type="OPT-TIMING" Name="SR_FLIPPY_FLOPPY_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="SR_FLIPPY_FLOPPY_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="SR_FLIPPY_FLOPPY_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="SR_FLIPPY_FLOPPY_reports.tcl"/>
+  <File Type="OPT-DRC" Name="SR_FLIPPY_FLOPPY_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="SR_FLIPPY_FLOPPY.hwdef"/>
+  <File Type="PWROPT-DCP" Name="SR_FLIPPY_FLOPPY_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="SR_FLIPPY_FLOPPY_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="SR_FLIPPY_FLOPPY_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="SR_FLIPPY_FLOPPY_placed.dcp"/>
+  <File Type="PLACE-IO" Name="SR_FLIPPY_FLOPPY_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="SR_FLIPPY_FLOPPY_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="SR_FLIPPY_FLOPPY_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="SR_FLIPPY_FLOPPY_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="SR_FLIPPY_FLOPPY_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="SR_FLIPPY_FLOPPY_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="SR_FLIPPY_FLOPPY_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="SR_FLIPPY_FLOPPY.bgn"/>
+  <File Type="PLACE-TIMING" Name="SR_FLIPPY_FLOPPY_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="SR_FLIPPY_FLOPPY_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="SR_FLIPPY_FLOPPY.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="SR_FLIPPY_FLOPPY_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="SR_FLIPPY_FLOPPY_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="SR_FLIPPY_FLOPPY_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="SR_FLIPPY_FLOPPY.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="SR_FLIPPY_FLOPPY_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="SR_FLIPPY_FLOPPY_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="SR_FLIPPY_FLOPPY_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="SR_FLIPPY_FLOPPY_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="SR_FLIPPY_FLOPPY_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="SR_FLIPPY_FLOPPY_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="SR_FLIPPY_FLOPPY.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="SR_FLIPPY_FLOPPY_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="SR_FLIPPY_FLOPPY.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="SR_FLIPPY_FLOPPY_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="SR_FLIPPY_FLOPPY_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="SR_FLIPPY_FLOPPY.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="SR_FLIPPY_FLOPPY_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="SR_FLIPPY_FLOPPY_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="SR_FLIPPY_FLOPPY_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="SR_FLIPPY_FLOPPY_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="SR_FLIPPY_FLOPPY_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="SR_FLIPPY_FLOPPY_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="SR_FLIPPY_FLOPPY_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="SR_FLIPPY_FLOPPY_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="SR_FLIPPY_FLOPPY_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="SR_FLIPPY_FLOPPY_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="SR_FLIPPY_FLOPPY_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="SR_FLIPPY_FLOPPY_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="SR_FLIPPY_FLOPPY_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="SR_FLIPPY_FLOPPY_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="SR_FLIPPY_FLOPPY_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="SR_FLIPPY_FLOPPY_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="SR_FLIPPY_FLOPPY_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="SR_FLIPPY_FLOPPY_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="SR_FLIPPY_FLOPPY_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="SR_FLIPPY_FLOPPY.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="SR_FLIPPY_FLOPPY_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="SR_FLIPPY_FLOPPY.rbt"/>
+  <File Type="BITSTR-NKY" Name="SR_FLIPPY_FLOPPY.nky"/>
+  <File Type="BG-DRC" Name="SR_FLIPPY_FLOPPY.drc"/>
+  <File Type="RDI-RDI" Name="SR_FLIPPY_FLOPPY.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/SR_FLIPPY_FLOPPY.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/D_flipflop.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Task1.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Task_1_multiple_delays.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="SR_FLIPPY_FLOPPY"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

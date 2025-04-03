@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/zayin/Logic_Gate_Test_ZedBoard/Logic_Gate_Test_ZedBoard.sim/sim_1/impl/func/xsim/tb_ALU_ZedBoard_func_impl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ALU_ZedBoard'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/zayin/Logic_Gate_Test_ZedBoard/Logic_Gate_Test_ZedBoard.srcs/sim_1/new/tb_ALU_ZedBoard.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_ALU_ZedBoard'

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Mar 28 11:06:10 2025
+# Process ID: 23032
+# Current directory: C:/Users/zayin/Logic_Gate_Test_ZedBoard/Logic_Gate_Test_ZedBoard.runs/synth_1
+# Command line: vivado.exe -log ALU_ZedBoard.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ALU_ZedBoard.tcl
+# Log file: C:/Users/zayin/Logic_Gate_Test_ZedBoard/Logic_Gate_Test_ZedBoard.runs/synth_1/ALU_ZedBoard.vds
+# Journal file: C:/Users/zayin/Logic_Gate_Test_ZedBoard/Logic_Gate_Test_ZedBoard.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ALU_ZedBoard.tcl -notrace

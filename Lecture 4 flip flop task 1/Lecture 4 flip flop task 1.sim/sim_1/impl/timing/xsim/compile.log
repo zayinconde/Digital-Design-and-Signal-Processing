@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/zayin/Lecture 4 flip flop task 1/Lecture 4 flip flop task 1.sim/sim_1/impl/timing/xsim/tb_SR_flipflop_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SR_FLIPPY_FLOPPY
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/zayin/Lecture 4 flip flop task 1/Lecture 4 flip flop task 1.srcs/sim_1/new/tb_SR_flipflop.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_SR_flipflop'

@@ -1,0 +1,7 @@
+Running: xsim.dir/Tb_task1_single_delay_time_impl/xsimk.exe -simmode gui -wdb Tb_task1_single_delay_time_impl.wdb -simrunnum 0 -socket 63747
+Design successfully loaded
+Design Loading Memory Usage: 7432 KB (Peak: 7432 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 8152 KB (Peak: 8152 KB)
+Simulation CPU Usage: 15 ms

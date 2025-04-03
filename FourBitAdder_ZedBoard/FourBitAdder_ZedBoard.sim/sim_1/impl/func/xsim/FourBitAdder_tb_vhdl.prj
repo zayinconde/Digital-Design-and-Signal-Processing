@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"FourBitAdder_tb_func_impl.vhd" \
+"../../../../../FourBitAdder_ZedBoard.srcs/sim_1/new/tb_FourBitAdder_ZedBoard.vhd" \
+
+# Do not sort compile order
+nosort

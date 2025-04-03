@@ -1,0 +1,1 @@
+-wto "f20bdb6b9d0f4ed99c00ba13f71ad57a" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_ALU_ZedBoard_func_impl" "xil_defaultlib.tb_ALU_ZedBoard" -log "elaborate.log" 

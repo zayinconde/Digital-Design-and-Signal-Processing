@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Feb 28 11:07:56 2025
+# Process ID: 24852
+# Current directory: C:/Users/zayin/Lecture 4 flip flop task 1/Lecture 4 flip flop task 1.sim/sim_1/impl/timing/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/zayin/Lecture 4 flip flop task 1/Lecture 4 flip flop task 1.sim/sim_1/impl/timing/xsim/xsim.dir/Tb_task1_single_delay_time_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/zayin/Lecture 4 flip flop task 1/Lecture 4 flip flop task 1.sim/sim_1/impl/timing/xsim/webtalk.log
+# Journal file: C:/Users/zayin/Lecture 4 flip flop task 1/Lecture 4 flip flop task 1.sim/sim_1/impl/timing/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/zayin/Lecture -notrace
+couldn't read file "C:/Users/zayin/Lecture": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Fri Feb 28 11:07:56 2025...

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/zayin/FourBitAdder_ZedBoard/FourBitAdder_ZedBoard.sim/sim_1/impl/func/xsim/FourBitAdder_tb_func_impl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FourBitAdder_ZedBoard'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/zayin/FourBitAdder_ZedBoard/FourBitAdder_ZedBoard.srcs/sim_1/new/tb_FourBitAdder_ZedBoard.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FourBitAdder_tb'

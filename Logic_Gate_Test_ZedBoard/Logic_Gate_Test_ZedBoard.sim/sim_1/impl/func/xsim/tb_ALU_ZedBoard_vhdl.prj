@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"tb_ALU_ZedBoard_func_impl.vhd" \
+"../../../../../Logic_Gate_Test_ZedBoard.srcs/sim_1/new/tb_ALU_ZedBoard.vhd" \
+
+# Do not sort compile order
+nosort

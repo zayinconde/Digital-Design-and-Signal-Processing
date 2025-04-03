@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Mar 28 13:26:20 2025
+# Process ID: 9940
+# Current directory: C:/Users/zayin/FourBitAdder_ZedBoard/FourBitAdder_ZedBoard.sim/sim_1/impl/func/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/zayin/FourBitAdder_ZedBoard/FourBitAdder_ZedBoard.sim/sim_1/impl/func/xsim/xsim.dir/FourBitAdder_tb_func_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/zayin/FourBitAdder_ZedBoard/FourBitAdder_ZedBoard.sim/sim_1/impl/func/xsim/webtalk.log
+# Journal file: C:/Users/zayin/FourBitAdder_ZedBoard/FourBitAdder_ZedBoard.sim/sim_1/impl/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/zayin/FourBitAdder_ZedBoard/FourBitAdder_ZedBoard.sim/sim_1/impl/func/xsim/xsim.dir/FourBitAdder_tb_func_impl/webtalk/xsim_webtalk.tcl -notrace

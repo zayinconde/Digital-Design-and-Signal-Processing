@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Mar  3 12:57:57 2025
+# Process ID: 792
+# Current directory: C:/Users/zayin/Lecture 4 flip flop task 1/Lecture 4 flip flop task 1.runs/synth_1
+# Command line: vivado.exe -log SR_FLIPPY_FLOPPY.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source SR_FLIPPY_FLOPPY.tcl
+# Log file: C:/Users/zayin/Lecture 4 flip flop task 1/Lecture 4 flip flop task 1.runs/synth_1/SR_FLIPPY_FLOPPY.vds
+# Journal file: C:/Users/zayin/Lecture 4 flip flop task 1/Lecture 4 flip flop task 1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source SR_FLIPPY_FLOPPY.tcl -notrace
